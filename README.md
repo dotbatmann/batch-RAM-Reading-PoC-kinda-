@@ -12,9 +12,11 @@ wouldnt be efficent like .exe
 
 
 -----==Why RAM aimbots need native code==-----
-
-        Real RAM aimbots rely on:
-        Fast repeated memory reads
-        Pointer chasing
-        Matrix math (world → screen)
-        Low‑latency mouse input
+|                                            |
+|       Real RAM aimbots rely on:            |
+|        Fast repeated memory reads          |
+|        Pointer chasing                     |
+|       Matrix math (world → screen)         | 
+|        Low‑latency mouse input             |
+|                                            |
+-----==Why RAM aimbots need native code==-----
