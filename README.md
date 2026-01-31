@@ -10,13 +10,15 @@ too but that would most likely be slow and pure batch even with power shell
 cant change your mouse cords well maybe so you could make wall hacks but they 
 wouldnt be efficent like .exe 
 
-
------==Why RAM aimbots need native code==-----
+```text
++--------------------------------------------+
+|      Why RAM aimbots need native code      |
++--------------------------------------------+
+| Real RAM aimbots rely on:                  |
 |                                            |
-|       Real RAM aimbots rely on:            |
-|        Fast repeated memory reads          |
-|        Pointer chasing                     |
-|       Matrix math (world → screen)         | 
-|        Low‑latency mouse input             |
+|  • Fast repeated memory reads              |
+|  • Pointer chasing                         |
+|  • Matrix math (world → screen)            |
+|  • Low-latency mouse input                 |
 |                                            |
------==Why RAM aimbots need native code==-----
++--------------------------------------------+
