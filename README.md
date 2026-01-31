@@ -1,7 +1,7 @@
 # batch-RAM-Reading-PoC-kinda
 im just explaining no code sadly 
 
-```text
+````text
 +----------------------------------------------------------------------------------------+
 |ok so RAM AimBots are possible with batch kinda batch itself can not read RAM           | 
 |but with powershell etc you acutally can but not good enough if you actually            |
@@ -13,7 +13,7 @@ im just explaining no code sadly
 
 
 
-```text
+
 +--------------------------------------------+
 |      Why RAM aimbots need native code      |
 +--------------------------------------------+
@@ -25,3 +25,7 @@ im just explaining no code sadly
 |  • Low-latency mouse input                 |
 |                                            |
 +--------------------------------------------+
+
+`````
+if this gets popular ill make a wall hack for some game not roblox because there 
+they use Luau and VMs so its a pain to make them in batch 
